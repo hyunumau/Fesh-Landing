@@ -1,0 +1,113 @@
+.img-logo {
+    width: 20%;
+}
+
+.nav-top {
+    height: auto;
+}
+
+.padding-top {
+    padding-top: 100px;
+}
+
+.img-avt {
+    width: 15%;
+}
+
+.gachngang {
+    text-decoration: line-through;
+}
+
+input.empty {
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+}
+
+.card-img-top {
+    width: 253px;
+    height: 150.07px;
+}
+
+.card {
+    width: 255px;
+    height: 410.04px;
+}
+
+.h1-welcome {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4em;
+}
+
+.p-thongtin {
+    opacity: 80%;
+}
+
+.p-download {
+    font-weight: 500;
+    opacity: 70%;
+    font-size: 0.9em;
+}
+
+.btn-bo-tron {
+    border-radius: 25px;
+    font-size: 14px;
+    height: 45px;
+    width: 110px;
+    font-weight: 500;
+}
+
+.btn-bo-tron1 {
+    border-radius: 25px;
+    font-size: 14px;
+    height: 50px;
+    width: 170px;
+    font-weight: 500;
+}
+
+.img-phone {
+    width: 60%;
+    border-radius: 25px;
+}
+
+.row-chuc-nang {
+    margin-top: 50px;
+}
+
+.container-jumbotron {
+    background-color: #e9ecef;
+}
+
+.border-top-blue {
+    padding-top: 20px;
+    border-top: 2px solid blue !important;
+    width: 100px;
+    text-align: center;
+}
+
+.img-circle {
+    width: 30%;
+    border-radius: 50%;
+}
+
+.card {
+    width: auto;
+    height: auto;
+}
+
+.phanhoi {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-fix {
+    background-color: #e9ecef;
+    background-image: -webkit-linear-gradient(97deg, #e9ecef 73%, #ffffff 20%);
+    min-height: 1000px;
+}
+
+.bot-fix {
+    background-color: #ffffff;
+    background-image: -webkit-linear-gradient(273deg, #e9ecef 37%, #ffffff 20%);
+}
